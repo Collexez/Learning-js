@@ -1,0 +1,37 @@
+.rr{
+    height: 800px;
+    width: 100%;
+    background-color: red;
+    display: flex;
+    justify-content: center;
+}
+.rr1{
+    height: 400px;
+    width: 500px;
+    background-color: gray;
+    margin-top: 60px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 20px;
+}
+.gg{
+    font-size: 50px;
+    text-align: center;
+
+}
+
+.tt{
+    height: 40px;
+    width: 300px;
+    border-radius: 6px;
+    font-size: 20px;
+}
+.gg1{
+    font-size: 20px;
+}
+.tt1{
+    height: 40px;
+    width: 200px;
+    border-radius: 6px;
+    font-size: 20px;
+}
